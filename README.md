@@ -16,3 +16,24 @@
 
 <h3>Windows</h3>
 
+* <b>Open Network and Internet Settings.</b>
+* <b>Click Change adapter options.</b>
+* <b>For each adapter in the resulting window, double-click the adapter and then click Properties.</b>
+* <b>Find the Internet Protocol Version 6 (TCP/IPv6) checkbox and uncheck it.</b>
+* <b>Click OK and close the remaining windows.<b>
+
+<h3>macOS</h3>
+
+* <b>Open System Preferences.</b>
+* <b>Click Network.</b>
+* <b>For each adapter in the list, click Advanced.</b>
+* <b>Open the (TCP/IP) tab.</b>
+* <b>Ensure Configure IPv6 is set to Off.<b>
+
+<h3>Linux</h3>
+
+* <b>Open Settings.</b>
+* <b>Click Network from the list on the left.</b>
+* <b>For each adapter, click the configuration Cog.</b>
+* <b>In the IPv6 tab, click the Disable radio button and then click Apply.</b>
+
