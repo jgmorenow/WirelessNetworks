@@ -37,3 +37,10 @@
 * <b>For each adapter, click the configuration Cog.</b>
 * <b>In the IPv6 tab, click the Disable radio button and then click Apply.</b>
 
+<h2>Limiting Network Devices</h2>
+
+
+<b>Most small, nonenterprise networks rarely specify or otherwise limit the devices present in their network and suffer from being too open, allowing all devices to connect. This approach may be convientent, especially when you buy a new device or friends come over, it's an insecure practice that leaves a door open for bad actors.</b>
+
+<h4>Asset List</h4>
+<b>Creating an asset list will help avoid security risks by identifying all the devices allowed to connect to the network and restricting access to just those devices. An asset list is a table containing data about each device, such as its type (PC, Laptop, Mobile Phone, and so on), location, hostname, MAC address, and IP address. </b>
