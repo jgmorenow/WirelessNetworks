@@ -44,3 +44,8 @@
 
 * <h4>Asset List</h4>
 <b>Creating an asset list will help avoid security risks by identifying all the devices allowed to connect to the network and restricting access to just those devices. An asset list is a table containing data about each device, such as its type (PC, Laptop, Mobile Phone, and so on), location, hostname, MAC address, and IP address. </b>
+
+<p align="center">
+<img src="https://i.imgur.com/DN7RbNy.png" height="25%" width="75%" />
+</p>
+
